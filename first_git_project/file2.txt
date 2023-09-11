@@ -1,0 +1,7 @@
+This is my first file.
+This is the second line.
+I’m adding some new text.
+
+this is Julia texting in Vitorias file
+Julia texting again
+its very complicated
